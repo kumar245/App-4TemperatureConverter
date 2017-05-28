@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App-4 Temperature Converter</string>
+    <string name="temperature_converter">TEMPERATURE CONVERTER</string>
+    <string name="click_to_farenheit">Click TO Farenheit</string>
+    <string name="enter_the_temperature">Enter The Temperature</string>
+    <string name="click_to_celisius">Click TO Celisius</string>
+</resources>
